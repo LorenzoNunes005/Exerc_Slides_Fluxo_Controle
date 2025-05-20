@@ -31,5 +31,5 @@ int main(){
             printf("Opção inválida\n");
             break;  
     }
-
+return 0;
 }
